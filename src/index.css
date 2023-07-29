@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  height: 100%;
+  padding: 50px 100px 100px 100px;
+  background-color: rgb(246, 246, 238);
 }
 
 code {

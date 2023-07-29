@@ -1,0 +1,28 @@
+[
+    {
+        "total_count": 1,
+        "incomplete_results": false,
+        "items":
+            {
+                "login": "Rowertom",
+                "id": 96700458,
+                "node_id": "U_kgDOBcOIKg",
+                "avatar_url": "https://avatars.githubusercontent.com/u/96700458?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Rowertom",
+                "html_url": "https://github.com/Rowertom",
+                "followers_url": "https://api.github.com/users/Rowertom/followers",
+                "following_url": "https://api.github.com/users/Rowertom/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Rowertom/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Rowertom/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Rowertom/subscriptions",
+                "organizations_url": "https://api.github.com/users/Rowertom/orgs",
+                "repos_url": "https://api.github.com/users/Rowertom/repos",
+                "events_url": "https://api.github.com/users/Rowertom/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Rowertom/received_events",
+                "type": "User",
+                "site_admin": false,
+                "score": 1.0
+            }
+    }
+]
